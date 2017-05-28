@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Recettes</string>
+
+
+    <string name="action_settings">Réglages</string>
+    <string name="main_list_activity_title">Recipes</string>
+    <string name="unavailable">N/A</string>
+    <string name="search">Chercher...</string>
+    <string name="new_recipe_name">Nouvelle recette</string>
+    <string name="recipe_name">Nom recette</string>
+    <string name="difficulty_name">Niveau difficulté</string>
+    <string name="time_to_cook_name">temps préparation en min.</string>
+    <string name="recipe_cost_name">Coût recette en dh</string>
+    <string name="recipe_ingredients_description">Ingrédients</string>
+    <string name="recipe_preparation_description">Préparation</string>
+    <string name="like">Aimer</string>
+    <string name="favorite_name">Favori</string>
+    <string name="time_name">Temps</string>
+    <string name="cost_name">Coût</string>
+
+    <string name="desc">Description</string>
+    <string name="recipe_image">Image</string>
+    <string name="couldnt_retrieve_image">Image non récupérée</string>
+    <string name="not_implemented">Non implémenté</string>
+    <string name="toast_filter_hint">Liste triée par:</string>
+
+    <string-array name="difficulty_array">
+        <item>Choisissez un niveau de difficulté</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="fields_mandatory_hint">Tous les champs sont obligatoires</string>
+    <string name="recipe_added_success">Nouvelle recette ajoutée</string>
+    <string name="recipe_added_failure">Recette non ajoutée !</string>
+    <string name="edit_recipe">Modifier recette</string>
+    <string name="delete_recipe">Supprimer recette</string>
+    <string name="recipe_deleted_success">a été supprimée</string>
+    <string name="delete_recipe_confirmation">Etes-vous sur de vouloir supprimer cette recette?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>
